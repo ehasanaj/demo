@@ -1,14 +1,14 @@
-{
-  "posts": [
-    { "id": 1, "title": "Hello Post 1" },
-    { "id": 2, "title": "Hello Post 2" },
-    { "id": 3, "title": "Hello Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+	{
+		“image”:“https://i.imgur.com/HCQv9JE.jpg”,
+		“hash”:“TKGIDQX{R#?KtiV?yCo{nP%eWFnO”
+	},
+	{
+		“image”:“https://i.imgur.com/b62TKrS.jpg”,
+		“hash”:“LxE:k_Wtt1f4M?WGWAjXx_Rkobk8"
+	},
+	{
+		“image”:“https://i.imgur.com/yC7gLKT.jpg”,
+		“hash”:“LKF={l.7V=D$5P%KIAkD~pNGV?s.”
+	}
+]
